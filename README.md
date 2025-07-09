@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Document Authoring SDK Demo
+
+This is a [Next.js](https://nextjs.org) project demonstrating the [Nutrient.io Document Authoring SDK](https://www.nutrient.io/sdk/document-authoring). The sample application showcases how to integrate document editing capabilities into a web application with a clean sidebar layout.
+
+## About Nutrient.io Document Authoring SDK
+
+The Nutrient Document Authoring SDK provides powerful document editing capabilities for web applications. This demo shows how to:
+
+- Import and display DOCX documents
+- Create an interactive document editor
+- Integrate with modern web frameworks like Next.js
+
+**Learn More:**
+- 📖 [Product Page](https://www.nutrient.io/sdk/document-authoring)
+- 📚 [Documentation](https://www.nutrient.io/guides/document-authoring/)
 
 ## Getting Started
 

@@ -44,7 +44,7 @@ export default function Home() {
       <aside className="w-64 bg-white dark:bg-gray-800 shadow-md">
         <div className="p-6">
           <h2 className="text-lg font-semibold text-gray-800 dark:text-white">
-            Document Authoring SDK Demo
+            Nutrient.io Document Authoring SDK Demo
           </h2>
         </div>
       </aside>
